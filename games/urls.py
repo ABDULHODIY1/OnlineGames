@@ -1,4 +1,3 @@
-# gamehub/urls.py
 from django.contrib import admin
 from django.urls import path
 from games import views as game_views
